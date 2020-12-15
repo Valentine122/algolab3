@@ -22,3 +22,10 @@ Iгровий сервер
 
 Вихiднi данi
 Вихiдний файл gamsrv .out повинен мiстити одне число — мiнiмальне значення найбiльшої затримки до клiєнта (яке ми отримаємо при оптимальному розташуваннi сервера).
+
+To run my code:
+• Clone this repository git clone https://github.com/Valentine122/algolab3
+
+• Enter your data in gamsrv.in
+
+• And use command: py gamsrv.py
