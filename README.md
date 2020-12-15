@@ -26,6 +26,6 @@ Iгровий сервер
 To run my code:
 • Clone this repository git clone https://github.com/Valentine122/algolab3
 
-• Enter your data in gamsrv.in
+• Enter your data in file in/in1
 
-• And use command: py gamsrv.py
+• And use command: py main.py
